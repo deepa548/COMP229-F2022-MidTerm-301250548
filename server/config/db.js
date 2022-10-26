@@ -1,7 +1,7 @@
 //File Name: COMP229-F2022-MidTerm-301250548
 //Author name: Deepa K
 //Student id: 301250548
-//Web app name: Faculty Information
+//App name: Faculty Information
 
 module.exports = {
   //local MongoDB deployment ->
